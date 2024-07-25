@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2><a href="https://arxiv.org/abs/2303.11331">Evaluating The Effectiveness of Capsule Neural Network in Toxic Comment Classification using Pre-trained BERT Embeddings</a></h2>
+<h2><a href="[https://arxiv.org/abs/2303.11331](https://ieeexplore.ieee.org/abstract/document/10322429)">Evaluating The Effectiveness of Capsule Neural Network in Toxic Comment Classification using Pre-trained BERT Embeddings</a></h2>
 
 [Md Habibur Rahman Sifat](https://github.com/habibsifat)<sup>1</sup>, [Noor Hossain Nuri Sabab](https://github.com/Quan-Sun)<sup>2</sup>, [Tashin Ahmed](https://tashinahmed.github.io/)<sup>3</sup>
  
@@ -45,7 +45,15 @@ Basic architecture of all the models (VNN, CNN, CapsNet, DistilBERT) that tested
 - Using EVA-02 as a feature extractor: https://github.com/baaivision/EVA/issues/56. -->
 
 ## BibTeX & Citation
-TODO
+@inproceedings{sifat2023evaluating,
+  title={Evaluating the effectiveness of capsule neural network in toxic comment classification using pre-trained BERT embeddings},
+  author={Sifat, Habibur Rahman and Sabab, Noor Hossain Nuri and Ahmed, Tashin},
+  booktitle={TENCON 2023-2023 IEEE Region 10 Conference (TENCON)},
+  pages={42--46},
+  year={2023},
+  organization={IEEE}
+}
+
 
 <!-- ```
 @article{EVA02,
